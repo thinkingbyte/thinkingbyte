@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on golang develop
+- 🌱 I’m currently learning  knowledge related to software architecture.
+
+
 <!--
 **thinkingbyte/thinkingbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
